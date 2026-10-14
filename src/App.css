@@ -58,3 +58,19 @@ form .display input{
   background-color: rgb(226, 226, 226);
   border: 2px solid black;
 }
+
+@media(max-width: 600px){
+  
+.title{
+  color: white ;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(91, 91, 151);
+  border-radius: 50px;
+  margin:auto;
+  width: 80%;
+  padding:auto;
+}
+
+}
